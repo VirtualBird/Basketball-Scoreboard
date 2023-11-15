@@ -1,4 +1,3 @@
-//  Gets value and id element
 function addScore(inputScore, inputElId)
 {
     //  Grabs element ID from string parameter
