@@ -39,7 +39,11 @@ button {
 }
 
 button:hover{
-    background-color: var(--main-text-color);
+    color: var(--main-text-color);
+}
+
+button:active{
+    background-color: var(--button-color);;
     color: var(--bg-color);
 }
 
