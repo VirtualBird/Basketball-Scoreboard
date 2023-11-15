@@ -38,6 +38,11 @@ button {
     padding: 12px;
 }
 
+button:hover{
+    background-color: var(--main-text-color);
+    color: var(--bg-color);
+}
+
 #resetScore-btn{
     font-size: 20pt;
 }
